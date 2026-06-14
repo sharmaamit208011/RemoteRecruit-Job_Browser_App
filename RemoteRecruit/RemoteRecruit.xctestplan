@@ -1,0 +1,36 @@
+{
+  "configurations" : [
+    {
+      "id" : "BCA3A0F7-0B90-49F0-A3F9-F28E4E32B066",
+      "name" : "Default",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:RemoteRecruit.xcodeproj",
+      "identifier" : "BE000001",
+      "name" : "RemoteRecruit"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:RemoteRecruit.xcodeproj",
+        "identifier" : "BE000002",
+        "name" : "RemoteRecruitTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:../RRNetworking",
+        "identifier" : "RRNetworkingTests",
+        "name" : "RRNetworkingTests"
+      }
+    }
+  ],
+  "version" : 1
+}

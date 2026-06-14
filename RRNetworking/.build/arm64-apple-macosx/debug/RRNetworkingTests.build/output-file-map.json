@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/master.swiftdeps"
+  },
+  "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/Tests/RRNetworkingTests/JobOpeningModelTests.swift": {
+    "dependencies": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/JobOpeningModelTests.d",
+    "object": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/JobOpeningModelTests.swift.o",
+    "swiftmodule": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/JobOpeningModelTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/JobOpeningModelTests.swiftdeps",
+    "diagnostics": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/JobOpeningModelTests.dia"
+  },
+  "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/Tests/RRNetworkingTests/JobOpeningProviderTests.swift": {
+    "dependencies": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/JobOpeningProviderTests.d",
+    "object": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/JobOpeningProviderTests.swift.o",
+    "swiftmodule": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/JobOpeningProviderTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/JobOpeningProviderTests.swiftdeps",
+    "diagnostics": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/JobOpeningProviderTests.dia"
+  },
+  "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/Tests/RRNetworkingTests/MockHTTPClient.swift": {
+    "dependencies": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/MockHTTPClient.d",
+    "object": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/MockHTTPClient.swift.o",
+    "swiftmodule": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/MockHTTPClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/MockHTTPClient.swiftdeps",
+    "diagnostics": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/MockHTTPClient.dia"
+  },
+  "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/Tests/RRNetworkingTests/NetworkErrorTests.swift": {
+    "dependencies": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/NetworkErrorTests.d",
+    "object": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/NetworkErrorTests.swift.o",
+    "swiftmodule": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/NetworkErrorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/NetworkErrorTests.swiftdeps",
+    "diagnostics": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/NetworkErrorTests.dia"
+  },
+  "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/Tests/RRNetworkingTests/NetworkingModelTests.swift": {
+    "dependencies": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/NetworkingModelTests.d",
+    "object": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/NetworkingModelTests.swift.o",
+    "swiftmodule": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/NetworkingModelTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/NetworkingModelTests.swiftdeps",
+    "diagnostics": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/NetworkingModelTests.dia"
+  },
+  "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/Tests/RRNetworkingTests/URLSessionHTTPClientTests.swift": {
+    "dependencies": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/URLSessionHTTPClientTests.d",
+    "object": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/URLSessionHTTPClientTests.swift.o",
+    "swiftmodule": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/URLSessionHTTPClientTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/URLSessionHTTPClientTests.swiftdeps",
+    "diagnostics": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingTests.build/URLSessionHTTPClientTests.dia"
+  }
+}

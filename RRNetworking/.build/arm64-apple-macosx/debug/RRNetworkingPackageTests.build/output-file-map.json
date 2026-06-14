@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingPackageTests.build/master.swiftdeps"
+  },
+  "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingPackageTests.build/runner.d",
+    "object": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingPackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/dinkumar10/Downloads/RemoteRecruit_iOS_v2/RRNetworking/.build/arm64-apple-macosx/debug/RRNetworkingPackageTests.build/runner.dia"
+  }
+}
